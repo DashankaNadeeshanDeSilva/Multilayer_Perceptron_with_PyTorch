@@ -270,7 +270,7 @@ def epoch_time(start_time, end_time):
 # Model training
 best_valid_loss = float('inf')
 
-EPOCHS = 1
+EPOCHS = 10
 
 for epoch in range(EPOCHS):
 
