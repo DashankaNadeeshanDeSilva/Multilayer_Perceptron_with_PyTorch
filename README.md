@@ -26,7 +26,9 @@ Simply run the file
 Multilayer_Perceptron.py
 ```
 **Results visualizations**
+
 Apart from usual performance measurements such as test and validation accuracy
+
 1. confusion matrix ![alt text](https://github.com/DashankaNadeeshanDeSilva/Multilayer_Perceptron/blob/main/confusion_matrix.png)
 2. Plot of incorrectly predicted images along with how confident they were on the actual label ![alt text](https://github.com/DashankaNadeeshanDeSilva/Multilayer_Perceptron/blob/main/weights_visualization.png)
 3. output and intermediate representations from the model after applying PCA for dimensionality reduction ![alt text](https://github.com/DashankaNadeeshanDeSilva/Multilayer_Perceptron/blob/main/intermediates_representations.png)
